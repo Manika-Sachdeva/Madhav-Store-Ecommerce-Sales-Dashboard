@@ -2,7 +2,7 @@
 ## Project Objective
 The Madhav Store aims to analyze ecommerce sales performance across different states, categories, customers, payment modes, and months to identify business trends, improve profitability, and make data-driven decisions for future growth.
 
-# Dataset Used
+## Dataset Used
 - <a href="https://github.com/Manika-Sachdeva/Madhav-Store-Ecommerce-Sales-Dashboard/blob/main/Details.csv">Dataset1(Details)</a>
 - <a href="https://github.com/Manika-Sachdeva/Madhav-Store-Ecommerce-Sales-Dashboard/blob/main/Orders.csv">Dataset2(Orders)</a>
 
@@ -18,10 +18,9 @@ The Madhav Store aims to analyze ecommerce sales performance across different st
 - Which payment mode is most used by customers?
 - Which sub-category generated maximum profit?
 
-## Dashboard Interaction <a href="https://github.com/Manika-Sachdeva/Madhav-Store-Ecommerce-Sales-Dashboard/blob/main/Screenshot.png">ViewDshboard</a>
+-Dashboard Interaction <a href="https://github.com/Manika-Sachdeva/Madhav-Store-Ecommerce-Sales-Dashboard/blob/main/Screenshot.png">ViewDshboard</a>
 
 ## Process
-
 - Collected and cleaned ecommerce sales data.
 - Removed missing values and corrected inconsistencies in data formatting.
 - Performed data transformation using Power Query.
