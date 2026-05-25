@@ -43,17 +43,6 @@ The Madhav Store aims to analyze ecommerce sales performance across different st
 - Profitability fluctuates monthly, with strong performance observed in January and November.
 - Harivansh and Madhav are among the top contributing customers.
 
-## Final Conclusion
-The dashboard helps Madhav Store monitor sales, profit, customer behavior, and product performance efficiently. By focusing on high-performing states, profitable product categories, and preferred payment methods, the business can improve operational efficiency and maximize revenue growth. The analysis also highlights seasonal profit trends, enabling smarter inventory planning and targeted marketing strategies.
-
-## Tech Stack
-- Power BI
-- Power Query
-- DAX
-- Data Cleaning
-- Data Visualization
-- Business Intelligence
-
 ## Key Features
 - Interactive Dashboard
 - Dynamic Filters & Slicers
@@ -62,3 +51,14 @@ The dashboard helps Madhav Store monitor sales, profit, customer behavior, and p
 - Category & Sub-category Insights
 - Monthly Profit Tracking
 - Customer & Payment Mode Analysis
+
+## Final Conclusion
+The dashboard helps Madhav Store monitor sales, profit, customer behavior, and product performance efficiently. By focusing on high-performing states, profitable product categories, and preferred payment methods, the business can improve operational efficiency and maximize revenue growth. The analysis also highlights seasonal profit trends, enabling smarter inventory planning and targeted marketing strategies.
+
+## Tech Stack Used
+- Power BI
+- Power Query
+- DAX
+- Data Cleaning
+- Data Visualization
+- Business Intelligence
