@@ -1,2 +1,3 @@
-# Madhav-Store-Ecommerce-Sales-Dashboard
-Interactive Power BI dashboard developed to analyze ecommerce sales, profit, customer behavior, payment modes, and product performance. Built using Power BI, Power Query, and DAX for data cleaning, transformation, and visualization, enabling businesses to track KPIs, identify sales trends, and make data-driven decisions through dynamic insights.
+# Madhav Store Ecommerce Sales Dashboard (Power BI Project)
+## Project Objective
+The Madhav Store aims to analyze ecommerce sales performance across different states, categories, customers, payment modes, and months to identify business trends, improve profitability, and make data-driven decisions for future growth.
