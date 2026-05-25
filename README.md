@@ -18,7 +18,7 @@ The Madhav Store aims to analyze ecommerce sales performance across different st
 - Which payment mode is most used by customers?
 - Which sub-category generated maximum profit?
 
--Dashboard Interaction <a href="https://github.com/Manika-Sachdeva/Madhav-Store-Ecommerce-Sales-Dashboard/blob/main/Screenshot.png">ViewDshboard</a>
+- Dashboard Interaction <a href="https://github.com/Manika-Sachdeva/Madhav-Store-Ecommerce-Sales-Dashboard/blob/main/Screenshot.png">ViewDashboard</a>
 
 ## Process
 - Collected and cleaned ecommerce sales data.
