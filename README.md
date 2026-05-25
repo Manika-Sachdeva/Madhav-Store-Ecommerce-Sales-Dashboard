@@ -7,7 +7,6 @@ The Madhav Store aims to analyze ecommerce sales performance across different st
 - <a href="https://github.com/Manika-Sachdeva/Madhav-Store-Ecommerce-Sales-Dashboard/blob/main/Orders.csv">Dataset2(Orders)</a>
 
 ## Questions (KPIs)
-
 - What is the total sales amount generated?
 - What is the total profit earned?
 - What is the total quantity sold?
@@ -33,4 +32,6 @@ The Madhav Store aims to analyze ecommerce sales performance across different st
 - Designed interactive visualizations and slicers in Power BI.
 - Developed a visually appealing dashboard with dark theme UI for better readability.
 
-## Dashboard
+## Dashboard 
+<img width="1001" height="562" alt="Screenshot" src="https://github.com/user-attachments/assets/3ef00adf-6ecc-4997-b857-068e2e2ee8c9" />
+
