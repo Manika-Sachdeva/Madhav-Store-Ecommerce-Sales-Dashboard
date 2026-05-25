@@ -35,3 +35,30 @@ The Madhav Store aims to analyze ecommerce sales performance across different st
 ## Dashboard 
 <img width="1001" height="562" alt="Screenshot" src="https://github.com/user-attachments/assets/3ef00adf-6ecc-4997-b857-068e2e2ee8c9" />
 
+## Project Insights
+- Maharashtra and Madhya Pradesh are the highest contributing states in terms of sales.
+- Clothing category contributes the maximum quantity sold (~63%).
+- COD is the most preferred payment mode among customers.
+- Printers and Bookcases generate the highest profit among sub-categories.
+- Profitability fluctuates monthly, with strong performance observed in January and November.
+- Harivansh and Madhav are among the top contributing customers.
+
+## Final Conclusion
+The dashboard helps Madhav Store monitor sales, profit, customer behavior, and product performance efficiently. By focusing on high-performing states, profitable product categories, and preferred payment methods, the business can improve operational efficiency and maximize revenue growth. The analysis also highlights seasonal profit trends, enabling smarter inventory planning and targeted marketing strategies.
+
+## Tech Stack
+- Power BI
+- Power Query
+- DAX
+- Data Cleaning
+- Data Visualization
+- Business Intelligence
+
+## Key Features
+- Interactive Dashboard
+- Dynamic Filters & Slicers
+- KPI Cards
+- State-wise Analysis
+- Category & Sub-category Insights
+- Monthly Profit Tracking
+- Customer & Payment Mode Analysis
